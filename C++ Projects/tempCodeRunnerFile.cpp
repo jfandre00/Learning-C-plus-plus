@@ -1,0 +1,1 @@
+spaces[1] == spaces[2]
